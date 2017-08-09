@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Smoke Shows
-Plugin URI: http://joshuahackett.com
+Plugin URI: https://github.com/jhackett1/smoke-shows
 Description: Adds show profile and scheduling functionality for Smoke Radio, and creates new REST API endpoints for consumption by site widgets and the app.
 Version: 1.0.0
 Author: Joshua Hackett
