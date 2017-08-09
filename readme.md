@@ -5,6 +5,10 @@ This is a WP plugin which registers a custom post type for live radio shows and 
 
 **It assumes all shows are one hour in duration and start on the hour.**
 
+It is intended to work in concert with the Smoke Player and Smoke Schedule plugins to provide complete, self-contained functionality.
+
+The single-template.php file is based on the single.php template of the Smoke Bestow theme, so your mileage may vary if using this under another WP theme.
+
 API endpoints
 -------------
 
